@@ -1,4 +1,4 @@
-# 🚀 BiteSpeed Identity Reconciliation Backend  
+# 🚀 Identity Reconciliation Backend  
 ### 🔗 FastAPI • SQLModel • SQLite • Render Deployment • Production-Ready  
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
