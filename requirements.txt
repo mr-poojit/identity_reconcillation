@@ -4,3 +4,4 @@ sqlmodel
 pydantic
 requests
 pytest
+python-dotenv
