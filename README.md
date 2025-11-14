@@ -191,5 +191,5 @@ GitHub: https://github.com/mr-poojit
 ## ⭐ Support  
 If you like this project, give it a **🌟 Star on GitHub**!
 
-👉 https://github.com/mr-poojit/identity-reconcillation
+👉 https://github.com/mr-poojit/identity_reconcillation.git
 
